@@ -1,6 +1,6 @@
-# 🎮 QuizBattle – Learn While You Play
+# 🎮 Learn2Play – Learn While You Play
 
-QuizBattle is an interactive 2-player game that combines **fun and learning**!  
+Learn2Play is an interactive 2-player game that combines **fun and learning**!  
 Before making a move in Tic Tac Toe, players must answer a quiz question based on their selected subject and difficulty.
 
 ## 🚀 Features (Planned)
@@ -24,9 +24,9 @@ Before making a move in Tic Tac Toe, players must answer a quiz question based o
 
 ## 📅 Progress Log
 
-| Date | Update |
-|------|--------|
-| 2025-06-18 | Day 1 – Project initialized, basic structure created ✅ |
+| Date       | Update                                                  |
+| ---------- | ------------------------------------------------------- |
+| 2025-06-24 | Day 1 – Project initialized, basic structure created ✅ |
 
 ## ✨ Author
 
@@ -36,4 +36,3 @@ _“Combining creativity with code to make learning fun.”_
 ---
 
 Stay tuned for more! 😊
-
